@@ -1,3 +1,0 @@
-v1
-{"path":"file:///home/jovyan/Batch_processing_wkld/data/csv_files/part-00000-d600bc22-652e-4b0b-93c5-98da39aab54e-c000.csv","size":13004,"isDir":false,"modificationTime":1657195250816,"blockReplication":1,"blockSize":33554432,"action":"add"}
-{"path":"file:///home/jovyan/Batch_processing_wkld/data/csv_files/part-00001-6ea30818-80d5-4eca-94d2-b8af276b70a6-c000.csv","size":1175,"isDir":false,"modificationTime":1657195250973,"blockReplication":1,"blockSize":33554432,"action":"add"}
